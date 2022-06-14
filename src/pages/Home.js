@@ -7,7 +7,7 @@ const Home = () =>
   return (
     <div>
       <Header />
-      Hello
+      Hello Bro
       <Footer />
     </div>
   )
